@@ -1,7 +1,7 @@
 # cppAlgorithm
 Some algorithm implemented using C++
 
-# Sorting Algorithm (folder : sortingIterator)
+# Algorithm (folder : algorithmIterator)
 Micmic C++ standard library style which accepts begin and end iterator of a container and customized comparison function (using std::less by default). 
 - Heap Sort (Iterative slightly faster in microseconds)
 - Heap Sort_ (Recursive)
@@ -16,7 +16,7 @@ Micmic C++ standard library style which accepts begin and end iterator of a cont
 - Bubble Sort
 - Bubble Sort_ (Modified version with a variable that check whether swapping occurs everytime but ver slow compared to plain version)
 
-# Algorithms that receive std::vector (folder : sortingVector)
+# Algorithms that receive std::vector (folder : algorithmVector)
 Sorting function that accpets Comparable template arguement vector and some can only accept integer.
 Under this folder contain a func.hpp which contains some usefule function such as printArr, isSorted while the elementSearch.hpp
 is the file that implements Linear Search, Jump Search and recursive Binary Search.
