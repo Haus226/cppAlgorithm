@@ -50,3 +50,6 @@ Currently does not support data in format of MATRIX type, please use the cleaned
 - Genetic Algorithm (GA)
   - Can simulate several different populations at one time by multithreading
 - Simulated Annealing (SA)
+
+Usage :
+Write the test in run.cpp then run the make command in terminal and finally run the run.exe.
