@@ -1,7 +1,6 @@
 #include <vector>
 #include <algorithm>
 #include "selectionSort.hpp"
-#include <iostream>
 
 template<typename It, typename Key>
 void SelectionSort(It begin, It end, Key&& cmp) {
