@@ -39,6 +39,7 @@ Sorting function that accpets Comparable template arguement vector and some can 
 
 # Optimization Algorithm (for Travelling Salesman Problem)
 [TSP Data Source](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/)
+Currently does not support data in format of MATRIX type, please use the cleaned dataset provided (dataset.zip)
 - Ant Colony Optimization (ACO)
   - Speed up the searching by using multithreading such that one thread handle some of the ants
 - Genetic Algorithm (GA)
