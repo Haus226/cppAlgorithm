@@ -16,8 +16,10 @@ Micmic C++ standard library style which accepts begin and end iterator of a cont
 - Bubble Sort
 - Bubble Sort_ (Modified version with a variable that check whether swapping occurs everytime but ver slow compared to plain version)
 
-# Sorting Algorithms which have some constraints (folder : sortingVector)
-Sorting function that accpets Comparable template arguement vector and some can only accept integer
+# Algorithms that receive std::vector (folder : sortingVector)
+Sorting function that accpets Comparable template arguement vector and some can only accept integer.
+Under this folder contain a func.hpp which contains some usefule function such as printArr, isSorted while the elementSearch.hpp
+is the file that implements Linear Search, Jump Search and recursive Binary Search.
 1) Heap Sort (Iterative slightly faster in microseconds)
 2) Heap Sort_ (Recursive)
 3) Merge Sort 
