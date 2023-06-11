@@ -1,4 +1,4 @@
-B cppAlgorithm
+# cppAlgorithm
 
 Some algorithms implemented using C++.
 
