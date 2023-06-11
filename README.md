@@ -35,7 +35,7 @@ is the file that implements Linear Search, Jump Search and recursive Binary Sear
 13) Counting Sort (Integer Only)
 14) Plain Radix Sort (Integer Only)
 15) Radix Sort with Counting Sort as subroutine (Integer Only)
-16) Radix Sort for floating (Based on bits, actually applicable to integer also but slower than (16))
+16) Radix Sort for floating (Based on bits, actually applicable to integer also but slower than (17))
 17) Radix Sort for integer (Based on bits, faster than the two (14 and 15) above)
   - There is small differences between the two radix sort (16 and 17) above but the implementations are mostly the same
   - Reference Link for 16 and 17 : [https://stackoverflow.com/questions/2685035/is-there-a-good-radixsort-implementation-for-floats-in-c-sharp](https://stackoverflow.com/questions/2685035/is-there-a-good-radixsort-implementation-for-floats-in-c-sharp)
