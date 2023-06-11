@@ -50,7 +50,7 @@ is the file that implements [`LinearSearch`](algorithmVector/searching/elementSe
 
 ## Optimization Algorithm (for Travelling Salesman Problem)
 [TSP Data Source](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/)
-Currently does not support data in format of MATRIX type, please use the cleaned dataset provided (dataset.zip)
+Currently does not support data in format of MATRIX type, please use the cleaned dataset provided ([dataset.zip](tspAlgorithm/dataset.zip))
 - [`antColonyOpimization`](tspAlgorithm/antColonyOptimization.cpp) (ACO)
   - Implement based on Ant Cycle Model
   - Speed up the searching by using multithreading, with each thread handling a subset of the ants
