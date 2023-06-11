@@ -1,5 +1,5 @@
 # Usage
-1. Read the TSP data using the `readTSPData` function in `func.cpp`, which returns a pair. The first element is the data type needed to initialize the distance matrix, and the second element is the coordinates of the cities.
+1. Read the TSP data using the [`readTSPData`](func.cpp) function in [`func.cpp`](func.cpp), which returns a pair. The first element is the data type needed to initialize the distance matrix, and the second element is the coordinates of the cities.
 2. Pass the returned value to the `coords` parameter of the `antColonyOptimization`, `geneticAlgorithm`, and `simulatedAnnealing` functions. The distance matrix will be initialized inside the function.
 
 ## Parameters of antColonyOptimization
