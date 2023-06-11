@@ -53,9 +53,9 @@ is the file that implements [`LinearSearch`](algorithmVector/searching/elementSe
 Currently does not support data in format of MATRIX type, please use the cleaned dataset provided (dataset.zip)
 - [`antColonyOpimization`](tspAlgorithm/antColonyOptimization.cpp) (ACO)
   - Implement based on Ant Cycle Model
-  - Speed up the searching by using multithreading such that one thread handle some of the ants
+  - Speed up the searching by using multithreading, with each thread handling a subset of the ants
 - [`geneticAlgorithm`](tspAlgorithm/geneticAlgorithm.cpp) (GA)
-  - Can simulate several different populations at one time by multithreading
+  - Can simulate several different populations concurrently using multithreading
 - [`simulatedAnnealing`](tspAlgorithm/simulatedAnnealing.cpp) (SA)
 
 
