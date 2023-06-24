@@ -19,7 +19,7 @@ While the algorithms implemented in `sorting` were shown below :
 - [`BubbleSort`](algorithmIterator/sorting/bubbleSort.tpp)
 - [`BubbleSort_`](algorithmIterator/sorting/bubbleSort.tpp) (Modified version with a variable that check whether swapping occurs everytime but ver slow compared to plain version)
 
-
+<!---
 ## Algorithms that receive std::vector (folder : algorithmVector)
 
 Sorting function that accpets Comparable template arguement vector and some can only accept integer.
@@ -47,6 +47,7 @@ is the file that implements [`LinearSearch`](algorithmVector/searching/elementSe
     floats-in-c-sharp](https://stackoverflow.com/questions/2685035/is-there-a-good-radixsort-implementation-for-floats-in-c-sharp)
 19. Hybrid [`BucketSort`](algorithmVector/sorting/bucketSort.tpp) (use Insertion Sort when fewer elements while Merge Sort (3) when more elements)
 20. Hybrid [`BucketSort_`](algorithmVector/sorting/bucketSort.tpp) (use Insertion Sort when fewer elements while Merge Sort (4) when more elements)
+--->
 
 ## Optimization Algorithm (for Travelling Salesman Problem)
 [TSP Data Source](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/)
